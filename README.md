@@ -15,12 +15,6 @@ This is a simple and intelligent chatbot built with **Python**, **NLTK**, and **
 
 ---
 
-## Preview
-
-![FAQ Chatbot Screenshot](https://via.placeholder.com/800x400?text=Streamlit+FAQ+Chatbot+Demo)
-
----
-
 ## Project Structure
 
 ```
