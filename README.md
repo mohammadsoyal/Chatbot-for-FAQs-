@@ -3,7 +3,7 @@ This is a simple and intelligent chatbot built with **Python**, **NLTK**, and **
 
 ---
 
-## 📦 Features
+## Features
 
 ✅ Load FAQs from a CSV file  
 ✅ NLP-based preprocessing (tokenization, stopword removal)  
@@ -15,13 +15,13 @@ This is a simple and intelligent chatbot built with **Python**, **NLTK**, and **
 
 ---
 
-## 🖼️ Preview
+## Preview
 
 ![FAQ Chatbot Screenshot](https://via.placeholder.com/800x400?text=Streamlit+FAQ+Chatbot+Demo)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 FAQChatbot/
@@ -32,7 +32,7 @@ FAQChatbot/
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.7+
 - [Streamlit](https://streamlit.io/)
@@ -42,7 +42,7 @@ FAQChatbot/
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -82,7 +82,7 @@ nltk.download('stopwords')
 
 ---
 
-## 🚀 Running the App
+## Running the App
 
 ```bash
 streamlit run chatbot.py
@@ -92,7 +92,7 @@ Then open the link it gives (usually `http://localhost:8501`) in your browser.
 
 ---
 
-## 📝 CSV Format
+## CSV Format
 
 Make sure your FAQ CSV has the following columns:
 
@@ -103,7 +103,7 @@ Make sure your FAQ CSV has the following columns:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - If no CSV is uploaded via the UI, it uses the default path:  
   `D:\AI INTERNSHIP\chatbotfaq\FAQChatbot\Faqs_100.csv`
@@ -112,7 +112,7 @@ Make sure your FAQ CSV has the following columns:
 
 ---
 
-## 🧠 Future Improvements
+## Future Improvements
 
 - Add voice input/output  
 - Support for multilingual questions  
@@ -120,14 +120,3 @@ Make sure your FAQ CSV has the following columns:
 - Integrate with a real product API
 
 ---
-
-## 🧑‍💻 Author
-
-Mohammad Soyal  
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
